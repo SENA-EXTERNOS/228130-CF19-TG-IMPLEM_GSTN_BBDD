@@ -17,3 +17,171 @@
 
   100%
     transform: translateY(0px)
+
+//banner interno
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/banner_interno.svg') !important
+  background-position: bottom center
+
+//colores
+
+.bg44
+  background-color:rgba(185,221,252,.44) !important
+.bg24
+  background-color:rgba(185,221,252,.24) !important
+
+.fcab95, .bloque-texto-a.color-acento-botones
+  background-color: rgba(220,245,247,.95) !important
+.fcab35
+  &::before
+    background-color: #a6f4fe !important
+.fcab17, .cajon.color-acento-botones
+  background-color: #d4faff !important
+
+.cac35, .bloque-texto-a.color-acento-botones:before
+  background-color: #fef5e2 !important
+
+.bordecp
+  border-color: $color-primario !important
+
+.bloque-texto-b.color-secundario
+  &::before
+    background-color: rgba(185,221,252,.25) !important
+
+.tarjeta--gris.acordion__activo
+  background-color: #e8e8e8 !important
+
+.fcp, .acordion__accion__btn--a
+  background-color: $color-primario !important
+  color: white
+.fcp15
+  background-color: #f4f9fe !important
+.fcs15
+  background-color: #EDF7F9 !important
+.fcasiblanco
+  background-color: #F9FCFF !important
+.fcac
+  background-color: $color-acento-contenido !important
+.cac
+  color: $color-acento-contenido !important
+.fcac50
+  background-color: #FFF8E7 !important
+.fcac30
+  background-color: rgba(255,179,11,.3) !important
+.cp
+  color: $color-primario !important
+.fcp
+  background-color: $color-primario !important
+.fcab
+  background-color: $color-acento-botones
+
+.bloque-texto-a.color-acento-contenido
+  background-color: #FFF7E6 !important
+
+.fblanco
+  background-color: white
+
+.color-acento-botones
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs, .slyder-a__bullets__item
+    background-color: $color-acento-botones
+
+//otros
+.color-secundario
+  .img-infografica-b__modal
+    background-color: $white
+    height: auto
+    box-shadow: 0 0 5px #00000088
+    border-radius: 1rem
+    h1,h2,h3,h4,h5,h6,span,p,li
+      color: $color-sistema-texto !important
+    i.fas.fa-times
+      background-color: grey
+      padding: 0.5rem
+  .img-infografica-b__item
+    &__dot
+      &::before,&::after
+        transform: scale(2)
+        box-shadow: 0 0 5px $color-acento-botones
+    &__numero
+      font-size: 2rem
+.color-acento-contenido
+  .img-infografica-b__modal
+    background-color: #F9E8C1
+    height: auto
+    box-shadow: 0 0 5px #00000088
+    border-radius: 1rem
+    h1,h2,h3,h4,h5,h6,span,p,li
+      color: $color-sistema-texto !important
+    i
+      background-color: grey
+      padding: 0.5rem
+
+
+.border1
+  border: dashed $color-primario
+
+.borde2
+  position: relative
+  &::before
+    content: ''
+    width: calc( 100% + 1.5rem )
+    height: calc( 100% + 1.5rem )
+    position: absolute
+    top: -0.75rem
+    left: -0.75rem
+    display: block
+    border: dashed $color-primario
+
+.bloque-texto-a__texto.p-4
+  position: relative
+  &::before
+    content: ''
+    position: absolute
+    width: calc( 100% + 2rem )
+    height: calc( 100% + 2rem )
+    border: dashed $color-primario
+    top: -1rem
+    left: -1rem
+
+.invertido
+  .bloque-texto-a
+    &::before
+      background-color: #ddfaf5 !important
+      left: 0
+      right: 50%
+
+.cajon.color-acento-contenido
+  background-color: rgba(255,179,11,.25) !important
+
+.crd_hover_txt
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  &--body
+    width: 100%
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all .5s ease-in-out
+    transform: translateY(calc(100% - 3.85rem))
+  &:hover
+    .crd_hover_txt--body
+      transition: all .5s ease-in-out
+      transform: translateY(0) !important
+
+.crd_hover_txt.color-primario
+  .crd_hover_txt--body
+    background-color: rgba(8,74,147,.9)
+    h1,h2,h3,h4,h5,h6,p,i,li
+      color: white !important
+
+.bg1
+  background-image: url('../assets/curso/temas/t1/f1.jpg')
+  background-size: auto 100%
+  background-position: right
+  background-repeat: no-repeat
+.bg2
+  background-image: url('../assets/curso/temas/t2/f22.jpg')
+  background-size: 50%
+  background-position: right
+  background-repeat: no-repeat
