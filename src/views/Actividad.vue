@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Validación de requisitos
-        p El objetico principal de la presente actividad es verificar los saberes más importantes del material correspondiente
+        p El objetivo principal de la presente actividad es verificar los saberes más importantes del material correspondiente
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

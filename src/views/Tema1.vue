@@ -81,19 +81,15 @@
           .h5.mb-2.text-center Identificador único (ID)
           p.text-center.mb-0 La organización define un estándar para numerar cada requisito del proyecto e identificarlo unívocamente. 
         .tarjeta.p-3(x="15%" y="63%" numero="2" style="background-color: #FFECC1")
-          .h5.mb-2.text-center Requisito
           p.text-center.mb-0 En qué consiste el requerimiento del proyecto.
         .tarjeta.p-3(x="29.5%" y="63%" numero="3" style="background-color: #FFECC1")
-          .h5.mb-2.text-center Prioridad
           p.text-center.mb-0 Puede ser alta, media y baja, según sea el caso.
         .tarjeta.p-3(x="36%" y="63%" numero="4" style="background-color: #FFECC1")
           .h5.mb-2.text-center Estado actual
           p.text-center.mb-0 La guía establece los siguientes estados en los que puede encontrarse un requerimiento.
         .tarjeta.p-3(x="46%" y="63%" numero="5" style="background-color: #FFECC1")
-          .h5.mb-2.text-center Objetivo
           p.text-center.mb-0 Descripción del objetivo del requisito. 
         .tarjeta.p-3(x="62%" y="63%" numero="6" style="background-color: #FFECC1")
-          .h5.mb-2.text-center Funcionalidad
           p.text-center.mb-0 Describir la funcionalidad de requisito.
         .tarjeta.p-3(x="75%" y="63%" numero="7" style="background-color: #FFECC1")
           .h5.mb-2.text-center Estado del entregable
@@ -179,12 +175,12 @@
           p 
             em Extract 
             | por su término original en inglés, que implica la extracción de los datos no estructurados.
-        .tarjeta.p-3(x="50%" y="5%" numero="1" style="background-color: #FFECC1")
+        .tarjeta.p-3(x="50%" y="5%" numero="2" style="background-color: #FFECC1")
           .h5.mb-2 Transformar
           p 
             em Transform 
             | por su término original en inglés, que implica la transformación de los datos en formato o forma específica.
-        .tarjeta.p-3(x="95%" y="72%" numero="1" style="background-color: #FFECC1")
+        .tarjeta.p-3(x="95%" y="72%" numero="3" style="background-color: #FFECC1")
           .h5.mb-2 Cargar
           p 
             em Load 

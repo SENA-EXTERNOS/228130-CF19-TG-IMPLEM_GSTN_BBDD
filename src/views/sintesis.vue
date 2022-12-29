@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 1.
+          h5 Implementación y gestión de bases de datos
           br
           em Síntesis técnicas de validación de datos
         figure
