@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Validación de requisitos',
     descripcionCurso:
-      'La obtención de requisitos es una tarea ardua que requiere de esfuerzo y sacrificio para determinar las necesidades que se deben solucionar. Sin embargo, la simple obtención de tales requisitos no es suficiente para completar esa labor, ya que estos deben ser confirmados y validados para asegurar que son reales y están bien en caminados. Es así como, las técnicas para la validación completan esta labor.',
+      'La obtención de requisitos es una tarea ardua que requiere esfuerzo y sacrificio para determinar las necesidades que deben solucionarse. Sin embargo, obtener tales requisitos no es suficiente, porque estos deben ser confirmados y validados, para asegurarse que sean reales y estén bien encaminados. Es así como, las técnicas para la validación, completan esta labor.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-img.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner-bg.svg'),
     imagenesDecorativasBanner: [
@@ -43,38 +43,7 @@ export default {
         numero: '1',
         titulo: 'Técnicas de validación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Matriz de trazabilidad',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Auditorías',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Análisis de coherencia automatizado',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Revisiones de requisitos',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: '<em>Reviews o Walk- throughs</em>',
-            hash: 't_1_5',
-          },
-        ],
+        subMenu: [],
       },
 
       {
@@ -83,20 +52,7 @@ export default {
         numero: '2',
         titulo: 'Prototipos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipos de prototipos',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Herramientas para construir prototipos',
-            hash: 't_2_2',
-          },
-        ],
+        subMenu: [],
       },
     ],
     subMenu: [
@@ -141,31 +97,31 @@ export default {
   },
   complementario: [
     {
-      tema: 'Concepto de ingeniería del software',
+      tema: 'Técnicas de validación',
       referencia:
-        'Bruegge, B, Dutort, A. (2018). <em>Ingeniería software orientada a objetos</em>. Primera Edición. Pearson Educación.',
+        'Bruegge, B. y Dutort, A. (2018). <em>Ingeniería software orientada a objetos.</em> Pearson Educación.',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=4337&pg=1',
     },
     {
-      tema: 'Requerimientos',
+      tema: 'Técnicas de validación',
       referencia:
-        'Cervantes Maceda, H, Velasco-Elizondo, P, Castro Careaga, L. (2016). <em>Arquitectura de software. Conceptos y ciclo de desarrollo</em>. Primera Edición: Cengage Learning Editores S.A.',
+        'Cervantes Maceda, H., Velasco-Elizondo, P. & Castro Careaga, L. (2016). <em>Arquitectura de software. Conceptos y ciclo de desarrollo.</em> Cengage Learning Editores S.A.',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=1983',
     },
     {
-      tema: 'Ingeniería de requerimientos',
+      tema: 'Prototipos',
       referencia:
-        'Pressman, R. (2010). <em>Ingeniería del software. Un Enfoque Practico</em>. Séptima Edición. Mac Graw Hill.',
+        'Pressman, R. (2010). <em>Ingeniería del software. Un Enfoque Practico.</em> Séptima Edición. Mac Graw Hill.',
       tipo: 'Libro',
       link:
         'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=&pg=&ed=',
     },
     {
-      tema: 'Ingeniería de requerimientos',
+      tema: 'Prototipos',
       referencia:
-        'Sommerville, I (2011). <em>Ingeniería del software. Novena Edición</em>. Pearson Educación.',
+        'Sommerville, I. (2011). <em>Ingeniería del software.</em> Novena Edición. Pearson Educación.',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=3313',
     },
@@ -199,7 +155,7 @@ export default {
     {
       termino: '<em>Moqups</em>',
       significado:
-        'es un portal <em>web</em> que se utiliza para crear y colaborar en tiempo real en la construcción de prototipos.',
+        'es un portal web que se utiliza para crear y colaborar en tiempo real en la construcción de prototipos.',
     },
     {
       termino: 'Prototipo',
@@ -219,24 +175,26 @@ export default {
     {
       termino: '<em>Wireframes</em>',
       significado:
-        'es una representación visual, generalmente en escala de grises, que muestra básicamente la estructura y funcionalidad de una página <em>web</em>.',
+        'es una representación visual, generalmente en escala de grises, que muestra básicamente la estructura y funcionalidad de una página web.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Arias, J. (19 de mayo de 2020). <em>Herramientas gratis para hacer wireframes y prototipos</em>. Uxables.',
+        'Arias, J. (2020). <em>Herramientas gratis para hacer wireframes y prototipos.</em> Uxables. ',
       link:
         'http://www.uxables.com/herramientas-recursos-ux-ui/herramientas-gratis-para-hacer-wireframes-y-prototipos/',
     },
     {
       referencia:
-        'Cervantes, H., Velasco, P., y Castro, L. (2016). <em>Arquitectura de software</em>. Primera Edición. Cengage Learning Editores S.A.',
+        'Cervantes, H., Velasco, P. y Castro, L. (2016). <em>Arquitectura de software</em>. Primera Edición. Cengage Learning Editores S.A. ',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=1983',
     },
     {
       referencia:
-        'Conesa, J., Casas, J. (2014). <em>Diseño conceptual de bases de datos en UML</em>. Editorial UOC.',
+        'Conesa, Y. y Casas, J. (2014). <em>Diseño conceptual de bases de datos en UML</em>. Editorial UOC. ',
+      link:
+        'https://books.google.com.co/books?hl=es&lr=&id=1jeCBAAAQBAJ&oi=fnd&pg=PA12&dq=Conesa,+J.,+Casas,+J.+(2014).+Dise%C3%B1o+conceptual+de+bases+de+datos+en+UML.+Editorial+UOC.&ots=7ih6k_Ko_h&sig=aYbtjuYYOM-nYgmn6iz_MP5XMd0#v=onepage&q&f=false',
     },
     {
       referencia:
@@ -246,11 +204,13 @@ export default {
     },
     {
       referencia:
-        'Echeverri, J. (2013). <em>Reflexiones sobre ingeniería de requisitos y pruebas de software</em>. Corporación Universitaria Remington.',
+        'Echeverri, J., <em>et al</em>. (2013). <em>Reflexiones sobre ingeniería de requisitos y pruebas de software</em>. Corporación Universitaria Remington.',
+      link:
+        'https://www.academia.edu/29568035/Reflexiones_sobre_ingenier%C3%ADa_de_requisitos_y_pruebas_de_software',
     },
     {
       referencia:
-        'EDteam. (25 de octubre de 2017). <em>¿Cómo se deciden las versiones del software?</em>',
+        'EDteam. (2017). <em>¿Cómo se deciden las versiones del software?</em> ',
       link: 'https://ed.team/blog/como-se-deciden-las-versiones-del-software',
     },
     {
@@ -266,26 +226,26 @@ export default {
     },
     {
       referencia:
-        'Medina, J., Pineda, E., Téllez, F. (2019). <em>Requerimientos de software: prototipado, software heredado y análisis de documentos</em>. Ingeniería y Desarrollo, 20.',
+        'Medina, J., Pineda, E. & Téllez, F. (2019). <em>Requerimientos de software: prototipado, software heredado y análisis de documentos.</em> Ingeniería y Desarrollo. ',
       link:
         'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0122-34612019000200327',
     },
     {
       referencia:
-        'Molina, D. (9 de diciembre de 2021). <em>Qué es un product backlog y cómo hacer uno</em>. IEBS Business School.',
+        'Molina, D. (2021). <em>Qué es un product backlog y cómo hacer uno.</em> IEBS Business School. ',
       link:
         'https://www.iebschool.com/blog/que-es-un-product-backlog-y-como-hacer-uno-guia-scrum-agile-scrum/#:~:text=Un%20product%20backlog%20es%20una,visibles%20para%20todo%20el%20equipo',
     },
     {
       referencia:
-        'Naeem, T. (21 de febrero de 2020). <em>Automatización de datos: cómo transforma el panorama empresarial</em>. Astera – Enabling Data – Driven Innovation.',
+        'Naeem, T. (2020). <em>Automatización de datos: cómo transforma el panorama empresarial.</em> Astera – Enabling Data – Driven Innovation.',
       link: 'https://www.astera.com/es/tipo/blog/automatizaci%C3%B3n-de-datos/',
     },
     {
       referencia:
-        'Novoseltseva, E. (16 de enero de 2020). <em>Técnicas de priorización de requerimientos de software</em>. Apiumhub.',
+        'Novoseltseva, E. (2020).<em>Técnicas de priorización de requerimientos de software.</em> Apiumhub. ',
       link:
-        'https://apiumhub.com/es/tech-blog-barcelona/priorizacion-requerimientos-software/ ',
+        'https://apiumhub.com/es/tech-blog-barcelona/priorizacion-requerimientos-software/',
     },
     {
       referencia:

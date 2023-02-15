@@ -3,11 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Estimado aprendiz le invitamos a revisar el resumen de las temáticas abordadas en el desarrollo del componente formativo.
+    p.mb-4 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+        //.titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Implementación y gestión de bases de datos
           br
           em Síntesis técnicas de validación de datos

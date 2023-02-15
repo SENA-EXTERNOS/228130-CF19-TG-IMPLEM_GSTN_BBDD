@@ -54,7 +54,7 @@
               p.mb-0 Realmente los prototipos son de carácter general, puesto que sirven para detectar o completar requisitos, pocos claros o no detectados, observar el comportamiento de las aplicación completa y además, permiten corroborar el grado de factibilidad técnica. 
             li
               i.fas.fa-check
-              p.mb-0 Promueven la iteratividad (Peralta, 2021).
+              p.mb-0 Promueven la iteratividad. (Peralta, 2021)
 
         .col-md-3(data-aos="fade-left")
           figure
@@ -85,7 +85,7 @@
             li
               i.fas.fa-check
               p.mb-0 El prototipado es ideal para el 
-                em software on-line.
+                em software online.
             li
               i.fas.fa-check
               p.mb-0 Facilidad para involucrar a los usuarios finales en fases tempranas.
@@ -100,9 +100,9 @@
               p.mb-0 Los requisitos de integración se comprenden muy bien y los canales de implementación se deciden en una etapa muy temprana.
             li
               i.fas.fa-check
-              p.mb-0 Facilita el control de avances y cambios de los proyectos (Ingeniería de 
+              p.mb-0 Facilita el control de avances y cambios de los proyectos. (Ingeniería de  
                 em software 
-                | I, 2018).
+                | I, 2018)
 
         .col-md-3(data-aos="fade-left")
           figure
@@ -157,31 +157,30 @@
 
     separador
 
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.1 Tipos de prototipos 
+    #t_2_1(data-aos='fade-right')
+      h3 Tipos de prototipos 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-md-3.col-8
         figure
           img(src='@/assets/curso/temas/t2/f6.svg', alt='')
       .col-lg-10.col-md-9.col-12
-        p.mb-0  El prototipado es una t&eacute;cnica que se puede considerar &ldquo;tradicional&rdquo;, puesto que lleva muchos a&ntilde;os vigente y sin muestras aparentes de desaparecer, aunque las llamadas tecnolog&iacute;as &aacute;giles en el desarrollo de 
+        p.mb-0  El prototipado es una técnica que se puede considerar “tradicional”, puesto que lleva muchos años vigente y sin muestras aparentes de desaparecer, aunque las llamadas tecnologías ágiles en el desarrollo de 
           em software
-          | , as&iacute; lo insin&uacute;en. Por el contrario, existen nuevos productos que le est&aacute;n dando un &ldquo;nuevo aire&rdquo; a dicha t&eacute;cnica, ya que en la actualidad estas nuevas herramientas combinan el dise&ntilde;o con el prototipo, facilitando mucho m&aacute;s las cosas y acortando los tiempos, tanto en el ambiente 
+          | , así lo insinúen. Por el contrario, existen recientes productos que le están dando un “nuevo aire” a dicha técnica, porque en la actualidad estas nuevas herramientas combinan el diseño con el prototipo, facilitando mucho más las cosas y acortando los tiempos, tanto en el ambiente
           em web
-          | , como en el de los dispositivos m&oacute;viles. Incluso, brindando muchas ventajas para el trabajo en equipo, lo que fortalece la armon&iacute;a entre los equipos de desarrollo y lo m&aacute;s interesante, permite involucrar a los usuarios finales; lo cual facilita notablemente el 
+          | , como en el de los dispositivos móviles. Incluso, brindando muchas ventajas para el trabajo en equipo, lo que fortalece la armonía entre los equipos de desarrollo y lo más interesante, permite involucrar a los usuarios finales, lo que facilita notablemente el
           em feedback
-          |  y sus consecuentes beneficios. Lo anterior, sin mencionar que es posible construir todo el dise&ntilde;o con su funcionalidad, lo que compone el prototipo como tal, sin escribir una sola l&iacute;nea de c&oacute;digo o en su defecto, solo un par de dichas l&iacute;neas (Ingenier&iacute;a de 
+          |  y sus consecuentes beneficios. Lo anterior, sin mencionar que es posible construir todo el diseño con su funcionalidad, lo que compone el prototipo como tal, sin escribir una sola línea de código o en su defecto, solo un par de dichas líneas. (Ingeniería de 
           em software
-          |  I, 2018). Algunos tipos son:
+          |  I, 2018) 
+        p Algunos tipos son:
 
     TabsC.color-acento-contenido.mb-5
-      .py-4.py-md-5(titulo="Prototipos de Baja fidelidad <em>(Wireframes)</em>")
+      .py-4.py-md-5(titulo="Prototipos de baja fidelidad <em>(Wireframes)</em>")
         .row.justify-content-center.align-items-center.p-4
           .col-md-8.mb-4.mb-md-0
-            p Generalmente se construyen en escala de grises o, simplemente en blanco y negro, puesto que solo se ver&aacute;n los bocetos, aunque mejor presentados, por estar enriquecidos. Lo que se traduce, en la concentraci&oacute;n b&aacute;sicamente en el dise&ntilde;o; tocando aspectos muy generales (para algunos, demasiado generales) del proyecto en construcci&oacute;n. Sin embargo, estos permiten&nbsp; abarcar un radio de acci&oacute;n mayor o ampliar el espectro planteado; es como si se utilizara una enorme cantidad de ideas, donde sobren estas, sobredimensionando el objetivo. L&oacute;gicamente, sin desbordar ni perder de vista los requerimientos, puesto que la cantidad de informaci&oacute;n retroalimentada, no lo permite (
-              em Vaware Labs
-              | , 2021).
+            p Generalmente se construyen en escala de grises o, simplemente en blanco y negro, puesto que solo se verán los bocetos, aunque mejor presentados, por estar enriquecidos. Lo que se traduce básicamente, es la concentración en el diseño, tocando aspectos muy generales (para algunos, demasiado generales) del proyecto en construcción. Sin embargo, estos abarcan un radio de acción mayor o amplían el espectro planteado; es como si se utilizara una enorme cantidad de ideas, se sobredimensione el objetivo. Lógicamente, sin desbordar ni perder de vista los requerimientos, puesto que la cantidad de información retroalimentada, no lo permite. 
 
           .col-md-4
             figure
@@ -189,16 +188,14 @@
       .py-4.py-md-5(titulo="Prototipos de media fidelidad (<em>Mockups</em>)")
         .row.justify-content-center.align-items-center.p-4
           .col-md-8.mb-4.mb-md-0
-            p En este caso, se tendrá en cuenta la parte visual del proyecto, es decir, centrado en el diseño físico, propiamente dicho o, dicho de otra forma, se vale del diseño físico. Es decir, ya en este tipo de prototipo, se presentan contenido, colores, tipografía, etc. Se da relevancia tanto al aspecto como al contenido. Por esta razón y sin lugar a duda, este tipo de prototipo es el que más se acerca al producto final, puesto que solamente le falta agregar detalles de funcionalidad específica (
-              em Vaware Labs
-              | , 2021).
+            p En este caso, se tendrá en cuenta la parte visual del proyecto, es decir, centrado en el diseño físico, o, dicho de otra forma, se vale del diseño físico. Es decir, ya en este tipo de prototipo, se presentan contenidos, colores, tipografía, etc. Se da relevancia tanto al aspecto, como al contenido. Por esta razón y sin lugar a dudas, este tipo de prototipo es el que más se acerca al producto final, puesto que solamente le falta agregar detalles de funcionalidad específica. 
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t2/f8.svg', alt='')
       .py-4.py-md-5(titulo="Prototipo de alta fidelidad (Maqueta)")
         .row.justify-content-center.align-items-center.p-4
           .col-md-8.mb-4.mb-md-0
-            p Cuando se habla de “maqueta” se hace referencia a un prototipo mucho más avanzado, es decir, más cerca al producto final, lo que permite una validación mucho más precisa y acertada. Incluso, se puede ir más allá, por ejemplo, se puede determinar si hay problemas de usabilidad, esto facilita la retroalimentación, acercándose a los detalles menores que probablemente requieran revisión, como es el caso de las correcciones de diseño y/o capa de presentación. Ahora bien, en materia de funcionalidad, las ventajas son mayores y más provechosas, puesto que, recordando que estamos más cerca del producto final, se puede observar con mayor detenimiento, puesto que se está muy cerca de la realidad (Medina et al, 2019).
+            p Cuando se habla de “maqueta” se hace referencia a un prototipo mucho más avanzado; es decir, más cerca al producto final, lo que permite una validación más precisa y acertada. Incluso, se puede ir más allá, se puede determinar si hay problemas de usabilidad, y esto facilita la retroalimentación, acercándose a los detalles menores que, probablemente, requieran revisión, como es el caso de las correcciones de diseño y/o capa de presentación. Ahora bien, en materia de funcionalidad, las ventajas son mayores y más provechosas, puesto que, recordando que estamos más cerca del producto final, se puede observar con mayor detenimiento, puesto que se está muy cerca de la realidad. (Medina, Pineda, Téllez, 2019)
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t2/f9.svg', alt='')
@@ -206,15 +203,15 @@
         .row.justify-content-center.align-items-center.p-4
           .col-md-8.mb-4.mb-md-0
             p Este tipo de prototipo es el más utilizado e incluso, más adecuado para la fase de análisis. Aunque algunos tipos de prototipos se pueden utilizar en todas las fases, en este caso como no es un producto completo, la validación y confirmación es mucho más ágil y rápida. En este orden de ideas, para utilizar un prototipo rápido o desechable se escriben las especificaciones, se realiza el correspondiente análisis, se validan los requisitos, se construye el prototipo, preferiblemente, siguiendo una metodología diferente a la que se dispone a utilizar y, finalmente se puede realizar la verificación respectiva. 
-            p Una vez se da por terminado el proceso, se procede a desechar por completo el prototipo. Es necesario aclarar y advertir que existen muchas historias de fracasos muy sonoros, en los que luego de la investigación respectiva, se concluyó que nunca desecharon el prototipo, por el contrario, lo convirtieron en el producto final (Medina et al, 2019).
+            p Una vez se da por terminado el proceso, se procede a desechar por completo el prototipo. Es necesario aclarar y advertir que existen muchas historias de fracasos muy sonoros, en los que luego de la investigación respectiva, se concluyó que nunca desecharon el prototipo, por el contrario, lo convirtieron en el producto final. (Medina, Pineda, Téllez, 2019)
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t2/f10.svg', alt='')
 
     separador
 
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.2 Herramientas para construir prototipos 
+    #t_2_2(data-aos='fade-right')
+      h3 Herramientas para construir prototipos 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -238,7 +235,7 @@
               img(src='@/assets/curso/temas/t2/f12.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: b Figma
-            p Es una herramienta para construir prototipos, disponible en la web, también se utiliza para crear y editar gráficos avanzados tipo vectoriales. Su alojamiento en la web permite una mejor interacción con el equipo de desarrollo, ya que se pueden compartir los avances de forma más sencilla y eficaz, facilitando de esta forma la retroalimentación y su consecuente actualización. No obstante, muy a pesar de que poder trabajar en línea es lo óptimo en la actualidad, a algunos usuarios les gusta controlar sus aplicativos de forma local, para lo cual Figma tiene una versión descargable e instalable.
+            p Es una herramienta para construir prototipos, disponible en la web y también se utiliza para crear y editar gráficos avanzados tipo vectoriales. Su alojamiento en la web permite una mejor interacción con el equipo de desarrollo, porque se pueden compartir los avances de forma más sencilla y eficaz, facilitando de esta forma, la retroalimentación y su consecuente actualización. No obstante, muy a pesar de poder trabajar en línea, es lo óptimo en la actualidad; a algunos usuarios les gusta controlar sus aplicativos de forma local, para lo cual Figma tiene una versión descargable e instalable. 
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
@@ -248,10 +245,10 @@
             ul.lista-ul--color
               li
                 i.fas.fa-check
-                p.mb-0 Posibilita la construcción de toda clase de diseños, lo cual incluye interfaces, formularios, menús, etc.
+                p.mb-0 Posibilita la construcción de toda clase de diseños, lo que incluye interfaces, formularios, menús, etc.
               li
                 i.fas.fa-check
-                p.mb-0 Como su almacenamiento es en la nube, permite compartir con el equipo de desarrollo todas las creaciones, lo cual facilita las discusiones y en general, el trabajo en equipo. 
+                p.mb-0 Como su almacenamiento es en la nube, permite compartir con el equipo de desarrollo todas las creaciones, lo cual facilita las discusiones y, en general, el trabajo en equipo. 
               li
                 i.fas.fa-check
                 p.mb-0 Al momento de enviar o reportar resultados, parciales o finales, se puede hacer en formatos comunes y estándar, como PDF, JPG, PNG.
@@ -265,7 +262,7 @@
                   | que permite ampliar y refinar su uso.
               li
                 i.fas.fa-check
-                p.mb-0 Una de las ventajas más interesantes, es que tiene una versión gratuita muy funcional (Uxables, 2020).
+                p.mb-0 Una de las ventajas más interesantes, es que tiene una versión gratuita muy funcional. (Arias, J. 2020)
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
@@ -275,21 +272,23 @@
             p Es una herramienta que específicamente, permite la construcción de prototipos de aplicaciones para dispositivos móviles en la nube, permitiendo representar e incluso, hasta se puede pensar que se puede idealizar la 
               em app 
               | que necesita el proyecto en estudio, llevando a cabo el diseño de este.
-            p El mismo sitio de la herramienta, facilita los elementos necesarios para realizar un diseño tipo responsive (técnica de diseño 
+            p El mismo sitio de la herramienta, facilita los elementos necesarios para realizar un diseño tipo 
+              em responsive 
+              |(técnica de diseño 
               em web 
-              | que permite que dicho diseño, se adapte a cualquier tamaño de pantalla de cualquier dispositivo). Todo se inicia con una amplia gama de posibilidades en cuanto a plantillas, que funcionan en forma óptima tanto para 
+              | que permite que dicho diseño, se adapte a cualquier tamaño de pantalla de cualquier dispositivo). Todo se inicia con una amplia gama de posibilidades en cuanto a plantillas, que funcionan de forma óptima tanto para 
               em Android
-              | , como para iOS, lo que facilita y minimiza el arduo trabajo de diseño.
+              | , como para iOS, lo que facilita y minimiza el arduo trabajo de diseño. 
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
               img(src='@/assets/curso/temas/t2/f13.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p Sin lugar a dudas, dan la posibilidad de creaci&oacute;n de enlaces internos que permitan la navegaci&oacute;n entre las p&aacute;ginas construidas, haciendo que, la experiencia del usuario sea mucho m&aacute;s f&aacute;cil, amena y divertida. Para lo cual, los 
+            p Sin lugar a dudas, dan la posibilidad de creación de enlaces internos que permitan la navegación entre las páginas construidas, haciendo que, la experiencia del usuario, sea mucho más fácil, amena y divertida. Para lo cual, los 
               em widgets
-              |  disponibles marcan la pauta de forma muy sencilla. Todo esto aunado a la gama de colores disponibles, los tipos de fuentes y en general, el sencillo manejo de plantillas y su forma de personalizarla, disminuyen significativamente la complejidad, normal de estos procesos. Adem&aacute;s, es necesario mencionar la importancia de tener la posibilidad del env&iacute;o de los llamados 
+              |  disponibles marcan la pauta de forma muy sencilla. Todo esto aunado a la gama de colores disponibles, los tipos de fuentes y, en general, el sencillo manejo de plantillas y su forma de personalizarla, disminuyen significativamente la complejidad, normal de estos procesos. Además, es necesario mencionar la importancia de tener la posibilidad del envío de los llamados 
               em MockUp
-              |  (muestra previa), para facilitar la retroalimentaci&oacute;n, tan necesaria para afinar los procesos que implican manejo de usuarios (Uxables, 2020).
+              |  (muestra previa), para facilitar la retroalimentación, tan necesaria, para afinar los procesos que implican manejo de usuarios. (Arias, J. 2020)
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
@@ -300,10 +299,10 @@
             p Marvel es otro producto que se utiliza para construir prototipos de 
               em app,
               |  utilizando su sitio tipo 
-              em web-app
-              | , lo cual implica que su funcionamiento es completamente 
-              em on-line.
-              |  Desde el punto de vista t&eacute;cnico, Marvel no crea prototipos, lo que se hace es subir a esta plataforma los dise&ntilde;os previamente creados utilizando cualquier otro producto, para posteriormente, utilizando Marvel, adicionarle la funcionalidad parcial o del tipo que se requiera.
+              em web app
+              | , lo que implica que su funcionamiento es completamente 
+              em online.
+              |  Desde el punto de vista técnico, Marvel no crea prototipos, lo que se hace es subir a esta plataforma los diseños previamente creados, utilizando cualquier otro producto, para, posteriormente, utilizando Marvel, adicionarle la funcionalidad parcial o del tipo que se requiera. 
             p Una de las funciones m&aacute;s importantes y llamativas de este 
               em software
               | , es que se puede configurar un &aacute;rea de una pantalla, para que simule su funcionalidad, con lo que se pueden obtener las retroalimentaciones requeridas que el proyecto demande. Un caso t&iacute;pico del trabajo con esta herramienta es que las funcionalidades que se construyen pueden ser, por ejemplo, tipo bot&oacute;n, es decir, que responda con un evento al tocarse determinada &aacute;rea o tambi&eacute;n se pueden crear transiciones animadas entre cada interfaz o pantalla que se dise&ntilde;en, lo cual permite que el prototipo se acerque mucho m&aacute;s al producto final deseado.
@@ -313,16 +312,16 @@
             figure
               img(src='@/assets/curso/temas/t2/f14.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p Otra enorme funcionalidad y ventaja que esta herramienta ofrece consiste en que se pueden dise&ntilde;ar las pantallas de la 
+            p Otra enorme funcionalidad y ventaja que esta herramienta ofrece, consiste en que se pueden diseñar las pantallas de la 
               em app
-              |  en papel y pasarlas a la plataforma. El caso t&iacute;pico es cuando se tiene una reuni&oacute;n con los clientes, e incluso, con el mismo equipo de desarrollo y como es normal y habitual, como parte de la explicaci&oacute;n se dise&ntilde;a en papel o en un tablero a mano alzada, pero con la mayor precisi&oacute;n posible. Especialmente si se trata de una reuni&oacute;n con los clientes, a este dibujo se le puede tomar fotograf&iacute;as y subirlo a Marvel para agregarle algunas funcionalidades, para hacerlo al
+              |  en papel y pasarlas a la plataforma. El caso típico es cuando se tiene una reunión con los clientes, e incluso, con el mismo equipo de desarrollo y, como es normal y habitual, como parte de la explicación, se diseña en papel o en un tablero a mano alzada, pero con la mayor precisión posible. Especialmente, si se trata de una reunión con los clientes, a este dibujo se le pueden tomar fotografías y subirlo a Marvel para agregarle algunas funcionalidades, para llevarlo al 
               em  software
               |  planeado.
             p En el mundo del desarrollo de 
               em software
-              |  existen todo tipo de comunidades de diferentes &iacute;ndoles que buscan una colaboraci&oacute;n estrecha entre equipos de desarrollo, incluidos, clientes finales. Marvel tiene la posibilidad de crear estas comunidades, puesto que permite agrupar a usuarios, equipos de desarrollo, tal que se puedan expresar las ideas y/o propuestas, mostrarlas y recibir los 
+              |  , existen todo tipo de comunidades de diferentes índoles que buscan una colaboración estrecha entre equipos de desarrollo, incluidos, clientes finales. Marvel tiene la posibilidad de crear estas comunidades, puesto que permite agrupar a usuarios, equipos de desarrollo, tal que se puedan expresar las ideas y/o propuestas, mostrarlas y recibir los 
               em feedback
-              |  respectivos (Uxables, 2020).
+              |  respectivos. (Arias, J. 2020)
 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -331,16 +330,16 @@
           .col-md-6.mb-4.mb-md-0
             p: strong
                 em Invision
-            p Es una herramienta de prototipado muy potente, orientada espec&iacute;ficamente para especialistas de dise&ntilde;o 
+            p Es una herramienta de prototipado muy potente, orientada específicamente para especialistas de diseño 
               em web
-              | , encaminada principalmente para dise&ntilde;adores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en 
+              | , encaminada principalmente para diseñadores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en 
               em web
-              | . A pesar de que su especialidad es 
+              | . A pesar que su especialidad es 
               em web
-              | , no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario.
-            p Adem&aacute;s, deja que los prototipos interactivos creados, se compartan con todo el equipo de desarrollo, incluso hasta profesionales externos, que puedan realizar aportes valiosos al proyecto. Especialmente los desarrolladores de 
+              | , no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario. 
+            p Además, deja que los prototipos interactivos creados, se compartan con todo el equipo de desarrollo, incluso hasta profesionales externos, que puedan realizar aportes valiosos al proyecto. Especialmente los desarrolladores de 
               em FrontEnd
-              |  pueden aprovechar y explotar mejor estas ventajas en el dise&ntilde;o 
+              |  pueden aprovechar y explotar mejor estas ventajas en el diseño 
               em web
               | .
 
@@ -353,9 +352,9 @@
               em software
               |  de prototipado, se pueden compartir o permitir que determinadas personas, revisen y/o opinen en los prototipos creados en tiempo real, logrando gran agilidad en los procesos de desarrollo de 
               em software
-              | , puesto que el
+              | , puesto que el 
               em  feeddback
-              |  se realiza en tiempo real. Igualmente, el tiempo que se gana al tener la posibilidad de contar con las nuevas publicaciones y los comentarios al respecto, adem&aacute;s de su historial de contenidos o versiones anteriores, reutilizables (Uxables, 2020).
+              |  se realiza en tiempo real. Igualmente, el tiempo que se gana al tener la posibilidad de contar con las nuevas publicaciones y los comentarios al respecto, además de su historial de contenidos o versiones anteriores, reutilizables. (Arias, J. 2020)
 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -365,9 +364,9 @@
             p: strong: em Moqups
             p Es un portal 
               em web 
-              | que se utiliza para crear y colaborar en tiempo real en la construcci&oacute;n de prototipos, diagramas, 
+              | que se utiliza para crear y colaborar en tiempo real en la construcción de prototipos, diagramas, 
               em wireframes
-              | . Aunque es necesario aprender y comprender su funcionamiento completo, se le puede sacar el m&aacute;ximo provecho a los m&aacute;s de dos millones de usuarios que trabajan en &eacute;l de forma colaborativa. Debido a que todo es un compendio de herramientas que dan la posibilidad de una gesti&oacute;n de proyectos muy completa, incluido los prototipos que se requieran. Es decir, en esta herramienta la colaboraci&oacute;n en l&iacute;nea est&aacute; garantizada, puesto que su construcci&oacute;n tiene como valor agregado el trabajo en equipo efectivo.
+              | . Aunque es necesario aprender y comprender su funcionamiento completo, se le puede sacar el máximo provecho a los más de dos millones de usuarios que trabajan en él, de forma colaborativa, debido a que todo es un compendio de herramientas que dan la posibilidad de una gestión de proyectos muy completa, incluido los prototipos que se requieran. Es decir, en esta herramienta, la colaboración en línea está garantizada, puesto que su construcción tiene como valor agregado, el trabajo en equipo efectivo.
             p Como ya se ha mencionado este portal permite la creaci&oacute;n de prototipos de una manera muy sencilla, b&aacute;sicamente lo que se hace es darle funcionalidad al dise&ntilde;o previamente construido, lo que permite representar de forma cercana a la realidad, la percepci&oacute;n de los usuarios, al trabajar con el futuro 
               em software
               | . Debe tenerse en cuenta que al utilizar la herramienta se facilita una retroalimentaci&oacute;n eficaz y muy acertada, puesto que es posible detectar requerimientos poco claros, mal expresados y/o malos entendidos, permitiendo la opini&oacute;n acerca del producto final por parte los clientes, en etapas muy tempranas, lo que da el tiempo necesario para tomar los correctivos que sean pertinentes.
@@ -377,9 +376,11 @@
             figure
               img(src='@/assets/curso/temas/t2/f16.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p A medida que avanza el proyecto, es muy importante que todos los integrantes del equipo de desarrollo, est&eacute;n en &ldquo;la misma sinton&iacute;a&rdquo;, mucho mejor, si a dicha &ldquo;sinton&iacute;a&rdquo; se pueden agregar&nbsp; los clientes, puesto que de esta forma, se tiene una completa y muy efectiva forma de contar con los feedback respectivos, opiniones, correcciones, dudas e inquietudes, etc.&nbsp; y si a esta condici&oacute;n se le puede agregar, que dichos 
+            p A medida que avanza el proyecto, es muy importante que todos los integrantes del equipo de desarrollo, estén en “la misma sintonía”; mucho mejor, si a esta se le pueden agregar los clientes y, de esta manera, se tiene una completa y muy efectiva forma de contar con los 
               em feedback 
-              | son en tiempo real, la ventaja es asombrosa; todo esto lo permite Moqups (Uxables, 2020).
+              | respectivos, opiniones, correcciones, dudas e inquietudes, etc., y si a esta condición se le puede agregar, que dichos 
+              em feedback 
+              | son en tiempo real, la ventaja es asombrosa; todo esto lo permite Moqups. (Arias, J. 2020)
 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -387,13 +388,7 @@
               img(src='@/assets/curso/temas/t2/f17.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: strong: em Framer
-            p Inicialmente, 
-              em Framer
-              |  estaba orientada &uacute;nicamente a sistemas operativos 
-              em MacOS
-              | , puesto que su especialidad estaba m&aacute;s inclinada hacia los prototipos animados o interactivos. Pero en la actualidad, la versi&oacute;n 
-              em web
-              | , permite esta misma funcionalidad, con la gran ventaja de permitir el trabajo colaborativo, lo cual la hace mucho m&aacute;s accesible para todos. Para que esto se pueda especificar para los usuarios cuenta con una serie de componentes utilizables, ajustables, al punto de poder personalizar todas las animaciones, dando la posibilidad a todo el equipo de opinar al respecto.
+            p Inicialmente, Framer estaba orientada únicamente a sistemas operativos macOS, puesto que su especialidad estaba más inclinada hacia los prototipos animados o interactivos. Pero en la actualidad, la versión web, permite esta misma funcionalidad, con la gran ventaja de permitir el trabajo colaborativo, lo cual la hace mucho más accesible para todos. Para que esto se pueda especificar para los usuarios, cuenta con una serie de componentes utilizables, ajustables, al punto de poder personalizar todas las animaciones, dando la posibilidad a todo el equipo de opinar al respecto.
             p Todo lo anterior conlleva a mayores y mejores retroalimentaciones. A prop&oacute;sito del trabajo colaborativo, la propiedad de la edici&oacute;n multiusuario rompe paradigmas, permitiendo que m&uacute;ltiples usuarios trabajen en el mismo prototipo, simult&aacute;neamente.
 
         .row.justify-content-center.align-items-center
@@ -401,14 +396,14 @@
             figure
               img(src='@/assets/curso/temas/t2/f17.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p Adicionalmente, la facilidad del trabajo con componentes interactivos es muy alta, con un simple clic derecho sobre el componente estático, la herramienta presenta una serie de posibilidades para remplazarlo con elementos llamativos, agradables a la vista y muy interactivos. De la misma forma, la posibilidad de crear el prototipo es muy sencilla y a la mano, solo es cuestión de conectar mediante líneas, para relacionar y/o enlazar los componentes respectivos, que hagan parte del prototipo en construcción (Uxables, 2020).
+            p Adicionalmente, la facilidad del trabajo con componentes interactivos es muy alta; con un simple clic derecho sobre el componente estático, la herramienta presenta una serie de posibilidades para remplazarlo con elementos llamativos, agradables a la vista y muy interactivos. De la misma forma, la posibilidad de crear el prototipo es muy sencilla y a la mano, solo es cuestión de conectar mediante líneas, para relacionar y/o enlazar los componentes respectivos, que hagan parte del prototipo en construcción. (Arias, J. 2020)
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
               img(src='@/assets/curso/temas/t2/f18.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: strong: em Justinmind
-            p Esta herramienta es una de la m&aacute;s completas, puesto que aplica para desarrollo 
+            p Esta herramienta es una de la más completas, puesto que aplica para desarrollo 
               em web
               | , m&oacute;viles y 
               em software
@@ -418,7 +413,7 @@
               em iOs
               |  y 
               em Android
-              | . Se debe pagar por su utilizaci&oacute;n. Sin embargo, hay una versi&oacute;n gratuita con opciones interesantes, aunque el valor de su versi&oacute;n m&aacute;s avanzada (pro) no es muy costoso.
+              | . Se debe pagar por su utilización. Sin embargo, hay una versión gratuita con opciones interesantes, aunque el valor de su versión más avanzada (Pro) no es muy costosa. 
             p Su utilizaci&oacute;n es muy sencilla e intuitiva puesto que est&aacute; dividida en dos grandes partes, la primera, en la que permite dise&ntilde;ar el aplicativo, es una serie de paneles din&aacute;micos que facilitan mucho la simulaci&oacute;n de botones, pesta&ntilde;as, transiciones, y en general, distintos elementos din&aacute;micos en un &aacute;rea determinada y, la segunda, permite trabajar los eventos, con el consecuente manejo de botones.
 
         .row.justify-content-center.align-items-center
@@ -426,18 +421,16 @@
             figure
               img(src='@/assets/curso/temas/t2/f18.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p Ahora bien, en la creaci&oacute;n del prototipo se distribuyen los 
+            p Ahora bien, en la creación del prototipo se distribuyen los 
               em widgets
-              |  y pantallas, incluso, es posible crear varias pantallas muy bien organizadas y superpuestas, tal que queden perfectamente enlazadas y se obtenga una simulaci&oacute;n muy completa y convincente de un aplicativo 
+              |  y pantallas, incluso, es posible crear varias pantallas muy bien organizadas y superpuestas, tal que queden perfectamente enlazadas y se obtenga una simulación muy completa y convincente de un aplicativo 
               em web
               | . Las posibilidades son muy integrales en el tema de los 
               em widgets
-              | . Adem&aacute;s de la completa gama de posibilidades que trae la herramienta, se pueden importar otros tantos desde su sitio oficial, sin mencionar la posibilidad de construir algunos personalizados. (Ingenier&iacute;a de 
+              | . Además de la completa gama de posibilidades que trae la herramienta, se pueden importar otros tantos desde su sitio oficial, sin mencionar la posibilidad de construir algunos personalizados. (Ingeniería de 
               em software
-              |  I, 2018).
-            p Las principales caracter&iacute;sticas de 
-              em Justinmind
-              |  son:
+              |  I, 2018)
+            p Las principales características de Justinmind son:
             ul.lista-ul--color
               li
                 i.fas.fa-check
@@ -461,14 +454,12 @@
               img(src='@/assets/curso/temas/t2/f19.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: strong: em Codiqa
-            p Aunque realmente 
-              em Codiqa 
-              | es una de las herramientas para crear prototipos paga, es muy utilizada en todo el mundo, por la sencillez en su utilizaci&oacute;n. Sus usuarios aducen tal auge a su caracter&iacute;stica de 
+            p Aunque realmente Codiqa es una de las herramientas pagas para crear prototipos, es muy utilizada en todo el mundo, por la sencillez en su utilización. Sus usuarios aducen tal auge a su característica de 
               em drag and drop
-              | , lo cual la hace muy intuitiva y f&aacute;cil de manejar. Tiene una amplia biblioteca de recursos, que facilita mucho el trabajo, adem&aacute;s permite importar recursos adicionales. Una de sus grandes ventajas, es que se puede construir el prototipo y ejecutar en cualquier navegador o dispositivo en forma autom&aacute;tica, sin requerir ning&uacute;n tipo de codificaci&oacute;n adicional, lo cual representa, un significativo ahorro de tiempo. Adicionalmente, permite compartir y revisar cada propuesta en tiempo real, de la misma forma que genera el proyecto visualmente y con c&oacute;digo.
-            p Otra caracter&iacute;stica que sobresale en esta herramienta consiste en que se trabaja completamente HTML5 con 
+              | , lo que la hace muy intuitiva y fácil de manejar. Tiene una amplia biblioteca de recursos, que facilita mucho el trabajo y, además, permite importar recursos adicionales. Una de sus grandes ventajas, es que se puede construir el prototipo y ejecutar en cualquier navegador o dispositivo de forma automática, sin requerir ningún tipo de codificación adicional, lo que representa, un significativo ahorro de tiempo. Adicionalmente, permite compartir y revisar cada propuesta en tiempo real, de la misma forma que genera el proyecto visualmente y con código.
+            p Otra característica que sobresale en esta herramienta, consiste en que se trabaja completamente HTML5 con 
               em jQuery Mobile.
-              |  Adem&aacute;s, el c&oacute;digo que genera se recicla, ya que es reutilizable en el proyecto final, lo cual implica un avance en los cronogramas asignados para el proyecto.
+              |  Además, el código que genera se recicla, ya que es reutilizable en el proyecto final, lo que implica un avance en los cronogramas asignados para el proyecto. 
 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -507,43 +498,29 @@
               img(src='@/assets/curso/temas/t2/f20.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: strong: em Pixate
-            p Dentro de la amplia gama de posibilidades para crear prototipos, no pod&iacute;a faltar la perteneciente a 
-              em Google
-              |  y, esa es
-              em  Pixate
-              | , que se trata de una muy potente herramienta, orientada cien por ciento para el dise&ntilde;o y la construcci&oacute;n de prototipos y de aplicaciones para todo tipo de dispositivos m&oacute;viles.
-            p Es decir, que funciona para Android y 
-              em iOS
-              |  de forma gratuita y su versi&oacute;n paga cuenta con un precio por la versi&oacute;n 
-              em premiun
-              |  muy bajo, por supuesto, previo acuerdo de colaboraci&oacute;n en l&iacute;nea, puesto que existe una gran comunidad alrededor de dicho producto en colaboraci&oacute;n permanente y muy profesional entre ellos.
+            p Dentro de la amplia gama de posibilidades para crear prototipos, no podía faltar la perteneciente a Google y, esa es Pixate, que se trata de una muy potente herramienta, orientada cien por ciento para el diseño y la construcción de prototipos y de aplicaciones para todo tipo de dispositivos móviles. 
+            p Es decir, que funciona para Android y para iOS de forma gratuita y su versión paga, cuenta con un precio por la versión 
+              em Premiun
+              |  muy bajo, por supuesto, previo acuerdo de colaboración en línea, puesto que existe una gran comunidad alrededor de dicho producto en colaboración permanente y muy profesional entre ellos.  
 
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
               img(src='@/assets/curso/temas/t2/f20.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p Algunos expertos orientan este producto a la construcci&oacute;n de prototipos para aplicaciones 
-              em Android
-              |  y 
-              em iOS
-              |  (como se menciona anteriormente), pero funciona sin problemas en sistemas operativos como 
-              em Windows
-              |  y 
-              em Mac OS X
-              | . No obstante, la opini&oacute;n que se abre paso es que esta herramienta es &oacute;ptima para proyectos cortos, peque&ntilde;os, no de tama&ntilde;o muy grande ni complicados, partiendo de la base que las interacciones no necesitan codificaci&oacute;n.
-            p En resumen, para trabajar en 
-              em Pixate
-              | , se debe descargar el aplicativo desde su p&aacute;gina oficial, para mayor seguridad, luego se puede observar su interfaz, muy agradable a la vista y din&aacute;mica. A continuaci&oacute;n, se puede iniciar el trabajo en este producto, lo cual es posible, mediante la utilizaci&oacute;n de la serie de &iacute;conos disponibles, con las pesta&ntilde;as en la parte derecha 
+            p Algunos expertos orientan este producto a la construcción de prototipos para aplicaciones Android y para iOS, pero funciona sin problemas en sistemas operativos como Windows y Mac OS X. No obstante, la opinión que se abre paso es que esta herramienta es óptima para proyectos cortos, pequeños, no de un tamaño muy grande ni complicados, partiendo de la base que las interacciones no necesitan codificación. 
+            p En resumen, para trabajar en Pixate, se debe descargar el aplicativo desde su página oficial, para mayor seguridad, luego se puede observar su interfaz, muy agradable a la vista y dinámica. A continuación, se puede iniciar el trabajo en este producto, lo que es posible, mediante la utilización de la serie de íconos disponibles, con las pestañas en la parte derecha 
               em &ldquo;samples&rdquo; y &ldquo;recent&rdquo;,
-              |  complementado con un bot&oacute;n para subir archivos, lo cual es la base para iniciar a trabajar.
+              |  complementado con un botón para subir archivos, lo cual es la base para iniciar a trabajar.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-md-2.col-8
         figure
           img(src='@/assets/curso/temas/t2/f21.svg', alt='')
       .col-lg-11.col-md-10.col-12
-        p.mb-0 Realmente, no existe una fórmula extraordinaria que permita la creación, cierta, efectiva y veraz de un prototipo de software. Sin embargo, se debe tener en cuenta unos datos básicos para tal fin:
+        p.mb-0 Realmente, no existe una fórmula extraordinaria que permita la creación, cierta, efectiva y veraz de un prototipo de 
+          em software. 
+          | Sin embargo, se deben tener en cuenta unos datos básicos para tal fin: 
 
     .col-md-10.mx-auto.mb-5.invertido
       .bloque-texto-a.color-secundario.bg2.p-4.p-md-5.mb-5
@@ -576,7 +553,7 @@
 
     .col-md-8.mx-auto
       .cajon.color-acento-contenido.p-4.mb-4
-        p.mb-0 Es importante tener en cuenta que el componente formativo dispone de más recursos. Pueden conocerse dirigiéndose al menú principal en donde se encuentran entre otros, la síntesis, una actividad didáctica y el material complementario.
+        p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 
