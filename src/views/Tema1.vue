@@ -165,7 +165,7 @@
           b cargar 
           | al destino final y/o al repositorio de datos respectivo. (Naeem, 2020)
         .cajon.color-acento-botones.p-4.mb-4
-          p.mb-0 Regresando al ámbito de los requisitos, este proceso ofrece un ahorro significativo de tiempo y, por consiguiente, de dinero, reduciendo a su mínima expresión el nivel de errores y la posibilidad de que aparezcan; llegando al punto de tener la oportunidad de hacer dicha detección en forma automática, advirtiendo que se requiere la participación y utilización de herramientas CASE, (Naeem, 2020).
+          p.mb-0 Regresando al ámbito de los requisitos, este proceso ofrece un ahorro significativo de tiempo y, por consiguiente, de dinero, reduciendo a su mínima expresión el nivel de errores y la posibilidad de que aparezcan; llegando al punto de tener la oportunidad de hacer dicha detección en forma automática, advirtiendo que se requiere la participación y utilización de herramientas CASE. (Naeem, 2020)
 
       .col-lg-6
         figure

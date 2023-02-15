@@ -269,15 +269,13 @@
               img(src='@/assets/curso/temas/t2/f13.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: b Fluid
-            p Es una herramienta que específicamente, permite la construcción de prototipos de aplicaciones para dispositivos móviles en la nube, permitiendo representar e incluso, hasta se puede pensar que se puede idealizar la 
-              em app 
+            p Es una herramienta que específicamente, permite la construcción de prototipos de aplicaciones para dispositivos móviles en la nube, permitiendo representar e incluso, hasta se puede pensar que se puede idealizar la app 
               | que necesita el proyecto en estudio, llevando a cabo el diseño de este.
             p El mismo sitio de la herramienta, facilita los elementos necesarios para realizar un diseño tipo 
               em responsive 
               |(técnica de diseño 
               em web 
-              | que permite que dicho diseño, se adapte a cualquier tamaño de pantalla de cualquier dispositivo). Todo se inicia con una amplia gama de posibilidades en cuanto a plantillas, que funcionan de forma óptima tanto para 
-              em Android
+              | que permite que dicho diseño, se adapte a cualquier tamaño de pantalla de cualquier dispositivo). Todo se inicia con una amplia gama de posibilidades en cuanto a plantillas, que funcionan de forma óptima tanto para Android
               | , como para iOS, lo que facilita y minimiza el arduo trabajo de diseño. 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -287,7 +285,7 @@
             p Sin lugar a dudas, dan la posibilidad de creación de enlaces internos que permitan la navegación entre las páginas construidas, haciendo que, la experiencia del usuario, sea mucho más fácil, amena y divertida. Para lo cual, los 
               em widgets
               |  disponibles marcan la pauta de forma muy sencilla. Todo esto aunado a la gama de colores disponibles, los tipos de fuentes y, en general, el sencillo manejo de plantillas y su forma de personalizarla, disminuyen significativamente la complejidad, normal de estos procesos. Además, es necesario mencionar la importancia de tener la posibilidad del envío de los llamados 
-              em MockUp
+              em Mockup
               |  (muestra previa), para facilitar la retroalimentación, tan necesaria, para afinar los procesos que implican manejo de usuarios. (Arias, J. 2020)
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -296,11 +294,8 @@
           .col-md-6.mb-4.mb-md-0
             p
               strong Marvel
-            p Marvel es otro producto que se utiliza para construir prototipos de 
-              em app,
-              |  utilizando su sitio tipo 
-              em web app
-              | , lo que implica que su funcionamiento es completamente 
+            p Marvel es otro producto que se utiliza para construir prototipos de app,
+              |  utilizando su sitio tipo web app, lo que implica que su funcionamiento es completamente 
               em online.
               |  Desde el punto de vista técnico, Marvel no crea prototipos, lo que se hace es subir a esta plataforma los diseños previamente creados, utilizando cualquier otro producto, para, posteriormente, utilizando Marvel, adicionarle la funcionalidad parcial o del tipo que se requiera. 
             p Una de las funciones m&aacute;s importantes y llamativas de este 
@@ -312,8 +307,7 @@
             figure
               img(src='@/assets/curso/temas/t2/f14.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p Otra enorme funcionalidad y ventaja que esta herramienta ofrece, consiste en que se pueden diseñar las pantallas de la 
-              em app
+            p Otra enorme funcionalidad y ventaja que esta herramienta ofrece, consiste en que se pueden diseñar las pantallas de la app
               |  en papel y pasarlas a la plataforma. El caso típico es cuando se tiene una reunión con los clientes, e incluso, con el mismo equipo de desarrollo y, como es normal y habitual, como parte de la explicación, se diseña en papel o en un tablero a mano alzada, pero con la mayor precisión posible. Especialmente, si se trata de una reunión con los clientes, a este dibujo se le pueden tomar fotografías y subirlo a Marvel para agregarle algunas funcionalidades, para llevarlo al 
               em  software
               |  planeado.
@@ -328,20 +322,11 @@
             figure
               img(src='@/assets/curso/temas/t2/f15.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p: strong
-                em Invision
-            p Es una herramienta de prototipado muy potente, orientada específicamente para especialistas de diseño 
-              em web
-              | , encaminada principalmente para diseñadores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en 
-              em web
-              | . A pesar que su especialidad es 
-              em web
-              | , no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario. 
+            p: strong Invision
+            p Es una herramienta de prototipado muy potente, orientada específicamente para especialistas de diseño web, encaminada principalmente para diseñadores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en web. A pesar que su especialidad es web, no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario. 
             p Además, deja que los prototipos interactivos creados, se compartan con todo el equipo de desarrollo, incluso hasta profesionales externos, que puedan realizar aportes valiosos al proyecto. Especialmente los desarrolladores de 
               em FrontEnd
-              |  pueden aprovechar y explotar mejor estas ventajas en el diseño 
-              em web
-              | .
+              |  pueden aprovechar y explotar mejor estas ventajas en el diseño web.
 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -361,12 +346,9 @@
             figure
               img(src='@/assets/curso/temas/t2/f16.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p: strong: em Moqups
-            p Es un portal 
-              em web 
-              | que se utiliza para crear y colaborar en tiempo real en la construcción de prototipos, diagramas, 
-              em wireframes
-              | . Aunque es necesario aprender y comprender su funcionamiento completo, se le puede sacar el máximo provecho a los más de dos millones de usuarios que trabajan en él, de forma colaborativa, debido a que todo es un compendio de herramientas que dan la posibilidad de una gestión de proyectos muy completa, incluido los prototipos que se requieran. Es decir, en esta herramienta, la colaboración en línea está garantizada, puesto que su construcción tiene como valor agregado, el trabajo en equipo efectivo.
+            p: strong Moqups
+            p Es un portal web 
+              | que se utiliza para crear y colaborar en tiempo real en la construcción de prototipos, diagramas, wireframes. Aunque es necesario aprender y comprender su funcionamiento completo, se le puede sacar el máximo provecho a los más de dos millones de usuarios que trabajan en él, de forma colaborativa, debido a que todo es un compendio de herramientas que dan la posibilidad de una gestión de proyectos muy completa, incluido los prototipos que se requieran. Es decir, en esta herramienta, la colaboración en línea está garantizada, puesto que su construcción tiene como valor agregado, el trabajo en equipo efectivo.
             p Como ya se ha mencionado este portal permite la creaci&oacute;n de prototipos de una manera muy sencilla, b&aacute;sicamente lo que se hace es darle funcionalidad al dise&ntilde;o previamente construido, lo que permite representar de forma cercana a la realidad, la percepci&oacute;n de los usuarios, al trabajar con el futuro 
               em software
               | . Debe tenerse en cuenta que al utilizar la herramienta se facilita una retroalimentaci&oacute;n eficaz y muy acertada, puesto que es posible detectar requerimientos poco claros, mal expresados y/o malos entendidos, permitiendo la opini&oacute;n acerca del producto final por parte los clientes, en etapas muy tempranas, lo que da el tiempo necesario para tomar los correctivos que sean pertinentes.
@@ -378,7 +360,7 @@
           .col-md-6.mb-4.mb-md-0
             p A medida que avanza el proyecto, es muy importante que todos los integrantes del equipo de desarrollo, estén en “la misma sintonía”; mucho mejor, si a esta se le pueden agregar los clientes y, de esta manera, se tiene una completa y muy efectiva forma de contar con los 
               em feedback 
-              | respectivos, opiniones, correcciones, dudas e inquietudes, etc., y si a esta condición se le puede agregar, que dichos 
+              | respectivos, opiniones, correcciones, dudas e inquietudes, etc. y si a esta condición se le puede agregar, que dichos 
               em feedback 
               | son en tiempo real, la ventaja es asombrosa; todo esto lo permite Moqups. (Arias, J. 2020)
 
@@ -387,7 +369,7 @@
             figure
               img(src='@/assets/curso/temas/t2/f17.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p: strong: em Framer
+            p: strong Framer
             p Inicialmente, Framer estaba orientada únicamente a sistemas operativos macOS, puesto que su especialidad estaba más inclinada hacia los prototipos animados o interactivos. Pero en la actualidad, la versión web, permite esta misma funcionalidad, con la gran ventaja de permitir el trabajo colaborativo, lo cual la hace mucho más accesible para todos. Para que esto se pueda especificar para los usuarios, cuenta con una serie de componentes utilizables, ajustables, al punto de poder personalizar todas las animaciones, dando la posibilidad a todo el equipo de opinar al respecto.
             p Todo lo anterior conlleva a mayores y mejores retroalimentaciones. A prop&oacute;sito del trabajo colaborativo, la propiedad de la edici&oacute;n multiusuario rompe paradigmas, permitiendo que m&uacute;ltiples usuarios trabajen en el mismo prototipo, simult&aacute;neamente.
 
@@ -402,18 +384,10 @@
             figure
               img(src='@/assets/curso/temas/t2/f18.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p: strong: em Justinmind
-            p Esta herramienta es una de la más completas, puesto que aplica para desarrollo 
-              em web
-              | , m&oacute;viles y 
+            p: strong Justinmind
+            p Esta herramienta es una de la más completas, puesto que aplica para desarrollo web, m&oacute;viles y 
               em software
-              | . Adem&aacute;s, trabaja en 
-              em Windows
-              | , 
-              em iOs
-              |  y 
-              em Android
-              | . Se debe pagar por su utilización. Sin embargo, hay una versión gratuita con opciones interesantes, aunque el valor de su versión más avanzada (Pro) no es muy costosa. 
+              | . Adem&aacute;s, trabaja en Windows, iOs y Android. Se debe pagar por su utilización. Sin embargo, hay una versión gratuita con opciones interesantes, aunque el valor de su versión más avanzada (Pro) no es muy costosa. 
             p Su utilizaci&oacute;n es muy sencilla e intuitiva puesto que est&aacute; dividida en dos grandes partes, la primera, en la que permite dise&ntilde;ar el aplicativo, es una serie de paneles din&aacute;micos que facilitan mucho la simulaci&oacute;n de botones, pesta&ntilde;as, transiciones, y en general, distintos elementos din&aacute;micos en un &aacute;rea determinada y, la segunda, permite trabajar los eventos, con el consecuente manejo de botones.
 
         .row.justify-content-center.align-items-center
@@ -423,9 +397,7 @@
           .col-md-6.mb-4.mb-md-0
             p Ahora bien, en la creación del prototipo se distribuyen los 
               em widgets
-              |  y pantallas, incluso, es posible crear varias pantallas muy bien organizadas y superpuestas, tal que queden perfectamente enlazadas y se obtenga una simulación muy completa y convincente de un aplicativo 
-              em web
-              | . Las posibilidades son muy integrales en el tema de los 
+              |  y pantallas, incluso, es posible crear varias pantallas muy bien organizadas y superpuestas, tal que queden perfectamente enlazadas y se obtenga una simulación muy completa y convincente de un aplicativo web. Las posibilidades son muy integrales en el tema de los 
               em widgets
               | . Además de la completa gama de posibilidades que trae la herramienta, se pueden importar otros tantos desde su sitio oficial, sin mencionar la posibilidad de construir algunos personalizados. (Ingeniería de 
               em software
@@ -453,12 +425,11 @@
             figure
               img(src='@/assets/curso/temas/t2/f19.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p: strong: em Codiqa
+            p: strong Codiqa
             p Aunque realmente Codiqa es una de las herramientas pagas para crear prototipos, es muy utilizada en todo el mundo, por la sencillez en su utilización. Sus usuarios aducen tal auge a su característica de 
               em drag and drop
               | , lo que la hace muy intuitiva y fácil de manejar. Tiene una amplia biblioteca de recursos, que facilita mucho el trabajo y, además, permite importar recursos adicionales. Una de sus grandes ventajas, es que se puede construir el prototipo y ejecutar en cualquier navegador o dispositivo de forma automática, sin requerir ningún tipo de codificación adicional, lo que representa, un significativo ahorro de tiempo. Adicionalmente, permite compartir y revisar cada propuesta en tiempo real, de la misma forma que genera el proyecto visualmente y con código.
-            p Otra característica que sobresale en esta herramienta, consiste en que se trabaja completamente HTML5 con 
-              em jQuery Mobile.
+            p Otra característica que sobresale en esta herramienta, consiste en que se trabaja completamente HTML5 con jQuery Mobile.
               |  Además, el código que genera se recicla, ya que es reutilizable en el proyecto final, lo que implica un avance en los cronogramas asignados para el proyecto. 
 
         .row.justify-content-center.align-items-center
@@ -497,10 +468,10 @@
             figure
               img(src='@/assets/curso/temas/t2/f20.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
-            p: strong: em Pixate
+            p: strong Pixate
             p Dentro de la amplia gama de posibilidades para crear prototipos, no podía faltar la perteneciente a Google y, esa es Pixate, que se trata de una muy potente herramienta, orientada cien por ciento para el diseño y la construcción de prototipos y de aplicaciones para todo tipo de dispositivos móviles. 
             p Es decir, que funciona para Android y para iOS de forma gratuita y su versión paga, cuenta con un precio por la versión 
-              em Premiun
+              em Premium
               |  muy bajo, por supuesto, previo acuerdo de colaboración en línea, puesto que existe una gran comunidad alrededor de dicho producto en colaboración permanente y muy profesional entre ellos.  
 
         .row.justify-content-center.align-items-center
