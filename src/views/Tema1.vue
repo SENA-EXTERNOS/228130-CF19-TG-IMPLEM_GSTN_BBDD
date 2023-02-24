@@ -145,7 +145,7 @@
     separador
 
     #t_1_3(data-aos='fade-right')
-      h3 Análisis de coherencia automatizado
+      h3 Análisis de coherencia automatizada
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-md-2.col-8.mb-sm-4
@@ -233,14 +233,14 @@
       h3 
         em Reviews 
         | o 
-        em Walk-throughs
+        em Walkthroughs
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/f13.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4.borde2
-        p Básicamente esta técnica consiste en que el desarrollador literalmente “lleva de la mano” a sus compañeros de equipo, para revisar en forma minuciosa los artefactos construidos a partir de los requisitos. Dicha revisión se orienta a detectar anomalías o cualquier tipo de inconsistencias, relacionadas con estándares, problemas de presentación, codificación, etc. En esta técnica, el autor del artefacto adquiere un papel principal, protagónico, que puede llegar hasta niveles dictatoriales. Lo cual permite determinar el cumplimiento de los objetivos del autor, frente a los verdaderos objetivos de calidad del equipo.
+        p Básicamente esta técnica consiste en que el desarrollador literalmente “lleva de la mano” a sus compañeros de equipo, para revisar en forma minuciosa los artefactos construidos a partir de los requisitos. Dicha revisión se orienta a detectar anomalías o cualquier tipo de inconsistencias, relacionadas con estándares, problemas de presentación, codificación, etc. En esta técnica, el autor del artefacto adquiere un papel principal, protagónico, que puede llegar hasta niveles dictatoriales. Lo cual permite determinar el cumplimiento de los objetivos del autor, frente a los verdaderos objetivos de calidad del equipo. #[br]#[br]
         p.mb-0 Generalmente, esta técnica no determina un procedimiento preestablecido o estándar, ni tampoco hay muchos registros que se puedan mostrar como evidencia al respecto, probablemente, subestimada y falta de credibilidad por muchos. Todo lo anterior debido al manejo sesgado que puede tener el autor del artefacto en esta técnica, incluso, ese manejo puede llegar a ser poco ortodoxo; pero si dicha técnica es utilizada de forma eficiente, será muy provechosa y efectiva. (Ingeniería de 
           em software 
           | I, 2018)

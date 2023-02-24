@@ -147,9 +147,9 @@
               p.mb-0 En la parte inicial de la construcción del prototipo, puede existir deficiente comunicación entre los desarrolladores y los clientes.
             li
               i.fas.fa-angle-right
-              p.mb-0 Pueden surgir algunos cambios imprevistos que, como es apenas lógico, terminan retrasando la normal construcción del prototipo. (Ingeniería de 
+              p.mb-0 Pueden surgir algunos cambios imprevistos que, como es apenas lógico, terminan retrasando la normal construcción del prototipo (Ingeniería de 
                 em Software 
-                | I, 2018)
+                | I, 2018).
 
         .col-md-3(data-aos="fade-left")
           figure
@@ -165,11 +165,11 @@
         figure
           img(src='@/assets/curso/temas/t2/f6.svg', alt='')
       .col-lg-10.col-md-9.col-12
-        p.mb-0  El prototipado es una técnica que se puede considerar “tradicional”, puesto que lleva muchos años vigente y sin muestras aparentes de desaparecer, aunque las llamadas tecnologías ágiles en el desarrollo de 
+        p  El prototipado es una técnica que se puede considerar “tradicional”, puesto que lleva muchos años vigente y sin muestras aparentes de desaparecer, aunque las llamadas tecnologías ágiles en el desarrollo de 
           em software
-          | , así lo insinúen. Por el contrario, existen recientes productos que le están dando un “nuevo aire” a dicha técnica, porque en la actualidad estas nuevas herramientas combinan el diseño con el prototipo, facilitando mucho más las cosas y acortando los tiempos, tanto en el ambiente
+          | , así lo insinúen. Por el contrario, existen recientes productos que le están dando un “nuevo aire” a dicha técnica, porque en la actualidad estas nuevas herramientas combinan el diseño con el prototipo, facilitando mucho más las cosas y acortando los tiempos, tanto en el ambiente 
           em web
-          | , como en el de los dispositivos móviles. Incluso, brindando muchas ventajas para el trabajo en equipo, lo que fortalece la armonía entre los equipos de desarrollo y lo más interesante, permite involucrar a los usuarios finales, lo que facilita notablemente el
+          | , como en el de los dispositivos móviles. Incluso, brindando muchas ventajas para el trabajo en equipo, lo que fortalece la armonía entre los equipos de desarrollo y lo más interesante, permite involucrar a los usuarios finales, lo que facilita notablemente el 
           em feedback
           |  y sus consecuentes beneficios. Lo anterior, sin mencionar que es posible construir todo el diseño con su funcionalidad, lo que compone el prototipo como tal, sin escribir una sola línea de código o en su defecto, solo un par de dichas líneas. (Ingeniería de 
           em software
@@ -295,8 +295,7 @@
             p
               strong Marvel
             p Marvel es otro producto que se utiliza para construir prototipos de app,
-              |  utilizando su sitio tipo web app, lo que implica que su funcionamiento es completamente 
-              em online.
+              |  utilizando su sitio tipo web app, lo que implica que su funcionamiento es completamente online.
               |  Desde el punto de vista técnico, Marvel no crea prototipos, lo que se hace es subir a esta plataforma los diseños previamente creados, utilizando cualquier otro producto, para, posteriormente, utilizando Marvel, adicionarle la funcionalidad parcial o del tipo que se requiera. 
             p Una de las funciones m&aacute;s importantes y llamativas de este 
               em software
@@ -325,7 +324,7 @@
             p: strong Invision
             p Es una herramienta de prototipado muy potente, orientada específicamente para especialistas de diseño web, encaminada principalmente para diseñadores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en web. A pesar que su especialidad es web, no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario. 
             p Además, deja que los prototipos interactivos creados, se compartan con todo el equipo de desarrollo, incluso hasta profesionales externos, que puedan realizar aportes valiosos al proyecto. Especialmente los desarrolladores de 
-              em FrontEnd
+              em Frontend
               |  pueden aprovechar y explotar mejor estas ventajas en el diseño web.
 
         .row.justify-content-center.align-items-center

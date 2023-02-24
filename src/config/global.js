@@ -220,7 +220,7 @@ export default {
     },
     {
       referencia:
-        'Ingeniería de software I. (2018). <em>Metodología Agil: Crystal</em>.',
+        'Ingeniería de <em>software</em> I. (2018). <em>Metodología Agil: Crystal</em>.',
       link:
         'https://isi2018.wordpress.com/2018/04/09/metodologia-agil-crystal/',
     },
