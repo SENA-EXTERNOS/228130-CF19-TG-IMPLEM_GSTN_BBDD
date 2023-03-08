@@ -9,7 +9,7 @@
           figure
             img(src="@/assets/curso/ad.svg", alt="Actividad didáctica")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-acento-contenido
           h2 Validación de requisitos
         p El objetivo principal de la presente actividad es verificar los saberes más importantes del material correspondiente
         .tarjeta.actividad.p-3
@@ -17,7 +17,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Opción múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
