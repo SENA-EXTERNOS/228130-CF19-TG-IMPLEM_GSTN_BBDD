@@ -62,7 +62,7 @@
               img(src='@/assets/curso/temas/t1/f4.png', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0
-            p Se debe recordar que esta matriz, cuando está construida correctamente, debe ser de doble vía, lo cual implica que, a partir de cualquier requerimiento, puede llegarse, sin mayores tropiezos a un entregable. Lo contrario, es decir, si se parte del entregable, se debería llegar al requerimiento. Por supuesto que esta ventaja va de la mano con los objetivos, esto es, cada requerimiento va de la mano con los objetivos del proyecto, incluidos los objetivos organizacionales. 
+            p Se debe recordar que esta matriz, cuando está construida correctamente, debe ser de doble vía, lo cual implica que, a partir de cualquier requerimiento, puede llegarse, sin mayores tropiezos, a un entregable. Lo contrario, es decir, si se parte del entregable, se debería llegar al requerimiento. Por supuesto que esta ventaja va de la mano con los objetivos, esto es, cada requerimiento va de la mano con los objetivos del proyecto, incluidos los objetivos organizacionales. 
           .col-md-5
             figure
               img(src='@/assets/curso/temas/t1/f5.png', alt='Texto que describa la imagen')
