@@ -29,7 +29,7 @@
               p.mb-0 Amplían la gama de posibilidades de los desarrolladores en el tema del diseño, permitiendo una escogencia muy acertada y precisa.
             li
               i.fas.fa-check
-              p.mb-0 Son esenciales ya que son una herramienta muy potente para completar y mejorar los requerimientos funcionales incluso, los no detectados inicialmente.
+              p.mb-0 Son esenciales ya que son una herramienta muy potente para completar y mejorar los requerimientos funcionales, incluso, los no detectados inicialmente.
             li
               i.fas.fa-check
               p.mb-0 Permiten aterrizar ideas muy abstractas e incluso, ideas poco precisas que se tengan en el proyecto.
@@ -51,10 +51,10 @@
                 em feedback.
             li
               i.fas.fa-check
-              p.mb-0 Realmente los prototipos son de carácter general, puesto que sirven para detectar o completar requisitos, pocos claros o no detectados, observar el comportamiento de las aplicación completa y además, permiten corroborar el grado de factibilidad técnica. 
+              p.mb-0 Realmente los prototipos son de carácter general, puesto que sirven para detectar o completar requisitos, pocos claros o no detectados, observar el comportamiento de la aplicación completa y además, permiten corroborar el grado de factibilidad técnica. 
             li
               i.fas.fa-check
-              p.mb-0 Promueven la iteratividad. (Peralta, 2021)
+              p.mb-0 Promueven la interactividad. (Peralta, 2021)
 
         .col-md-3(data-aos="fade-left")
           figure
@@ -121,7 +121,7 @@
               p.mb-0 Tener al cliente cerca implica permanentes cambios y hasta reprocesos en los requerimientos.
             li
               i.fas.fa-angle-right
-              p.mb-0 Los cambios constantes en los clientes, en relación a los requisitos, tornan deficiente la documentación.
+              p.mb-0 Los cambios constantes en los clientes, en relación con los requisitos, tornan deficiente la documentación.
             li
               i.fas.fa-angle-right
               p.mb-0 Construir el prototipo es costoso.
@@ -188,7 +188,7 @@
       .py-4.py-md-5(titulo="Prototipos de media fidelidad (<em>Mockups</em>)")
         .row.justify-content-center.align-items-center.p-4
           .col-md-8.mb-4.mb-md-0
-            p En este caso, se tendrá en cuenta la parte visual del proyecto, es decir, centrado en el diseño físico, o, dicho de otra forma, se vale del diseño físico. Es decir, ya en este tipo de prototipo, se presentan contenidos, colores, tipografía, etc. Se da relevancia tanto al aspecto, como al contenido. Por esta razón y sin lugar a dudas, este tipo de prototipo es el que más se acerca al producto final, puesto que solamente le falta agregar detalles de funcionalidad específica. 
+            p En este caso, se tendrá en cuenta la parte visual del proyecto, es decir, centrado en el diseño físico, o, dicho de otra forma, se vale del diseño físico. Es decir, ya en este tipo de prototipo, se presentan contenidos, colores, tipografía, etc. Se da relevancia tanto al aspecto, como al contenido. Por esta razón, y sin lugar a dudas, este tipo de prototipo es el que más se acerca al producto final, puesto que solamente le falta agregar detalles de funcionalidad específica. 
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t2/f8.svg', alt='')
@@ -202,7 +202,7 @@
       .py-4.py-md-5(titulo="Rápido o desechable")
         .row.justify-content-center.align-items-center.p-4
           .col-md-8.mb-4.mb-md-0
-            p Este tipo de prototipo es el más utilizado e incluso, más adecuado para la fase de análisis. Aunque algunos tipos de prototipos se pueden utilizar en todas las fases, en este caso como no es un producto completo, la validación y confirmación es mucho más ágil y rápida. En este orden de ideas, para utilizar un prototipo rápido o desechable se escriben las especificaciones, se realiza el correspondiente análisis, se validan los requisitos, se construye el prototipo, preferiblemente, siguiendo una metodología diferente a la que se dispone a utilizar y, finalmente se puede realizar la verificación respectiva. 
+            p Este tipo de prototipo es el más utilizado e incluso, más adecuado para la fase de análisis. Aunque algunos tipos de prototipos se pueden utilizar en todas las fases, en este caso como no es un producto completo, la validación y confirmación es mucho más ágil y rápida. En este orden de ideas, para emplear un prototipo rápido o desechable se escriben las especificaciones, se realiza el correspondiente análisis, se validan los requisitos, se construye el prototipo, preferiblemente, siguiendo una metodología diferente a la que se dispone a utilizar y, finalmente se puede realizar la verificación respectiva. 
             p Una vez se da por terminado el proceso, se procede a desechar por completo el prototipo. Es necesario aclarar y advertir que existen muchas historias de fracasos muy sonoros, en los que luego de la investigación respectiva, se concluyó que nunca desecharon el prototipo, por el contrario, lo convirtieron en el producto final. (Medina, Pineda, Téllez, 2019)
           .col-md-4
             figure
@@ -269,14 +269,13 @@
               img(src='@/assets/curso/temas/t2/f13.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: b Fluid
-            p Es una herramienta que específicamente, permite la construcción de prototipos de aplicaciones para dispositivos móviles en la nube, permitiendo representar e incluso, hasta se puede pensar que se puede idealizar la app 
+            p Es una herramienta que, específicamente, permite la construcción de prototipos de aplicaciones para dispositivos móviles en la nube, permitiendo representar e incluso, hasta se puede pensar que se puede idealizar la app 
               | que necesita el proyecto en estudio, llevando a cabo el diseño de este.
             p El mismo sitio de la herramienta, facilita los elementos necesarios para realizar un diseño tipo 
               em responsive 
               |(técnica de diseño 
               em web 
-              | que permite que dicho diseño, se adapte a cualquier tamaño de pantalla de cualquier dispositivo). Todo se inicia con una amplia gama de posibilidades en cuanto a plantillas, que funcionan de forma óptima tanto para Android
-              | , como para iOS, lo que facilita y minimiza el arduo trabajo de diseño. 
+              | que permite que dicho diseño, se adapte a cualquier tamaño de pantalla de cualquier dispositivo). Todo se inicia con una amplia gama de posibilidades en cuanto a plantillas, que funcionan de forma óptima tanto para Android como para iOS, lo que facilita y minimiza el arduo trabajo de diseño. 
         .row.justify-content-center.align-items-center
           .col-md-3
             figure
@@ -284,7 +283,7 @@
           .col-md-6.mb-4.mb-md-0
             p Sin lugar a dudas, dan la posibilidad de creación de enlaces internos que permitan la navegación entre las páginas construidas, haciendo que, la experiencia del usuario, sea mucho más fácil, amena y divertida. Para lo cual, los 
               em widgets
-              |  disponibles marcan la pauta de forma muy sencilla. Todo esto aunado a la gama de colores disponibles, los tipos de fuentes y, en general, el sencillo manejo de plantillas y su forma de personalizarla, disminuyen significativamente la complejidad, normal de estos procesos. Además, es necesario mencionar la importancia de tener la posibilidad del envío de los llamados 
+              |  disponibles marcan la pauta de forma muy sencilla. Todo esto, aunado a la gama de colores disponibles, los tipos de fuentes y, en general, el sencillo manejo de plantillas y su forma de personalizarla, disminuyen significativamente la complejidad, normal, de estos procesos. Además, es necesario mencionar la importancia de tener la posibilidad del envío de los llamados 
               em Mockup
               |  (muestra previa), para facilitar la retroalimentación, tan necesaria, para afinar los procesos que implican manejo de usuarios. (Arias, J. 2020)
         .row.justify-content-center.align-items-center
@@ -322,7 +321,7 @@
               img(src='@/assets/curso/temas/t2/f15.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: strong Invision
-            p Es una herramienta de prototipado muy potente, orientada específicamente para especialistas de diseño web, encaminada principalmente para diseñadores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en web. A pesar que su especialidad es web, no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario. 
+            p Es una herramienta de prototipado muy potente, orientada específicamente para especialistas de diseño web, encaminada principalmente para diseñadores. Su funcionamiento, al igual que los productos mencionados anteriormente, es netamente en web. A pesar de que su especialidad es web, no hace falta tener conocimientos profundos en HTML, puesto que su funcionamiento es muy sencillo, intuitivo y amigable al usuario. 
             p Además, deja que los prototipos interactivos creados, se compartan con todo el equipo de desarrollo, incluso hasta profesionales externos, que puedan realizar aportes valiosos al proyecto. Especialmente los desarrolladores de 
               em Frontend
               |  pueden aprovechar y explotar mejor estas ventajas en el diseño web.
@@ -348,7 +347,7 @@
             p: strong Moqups
             p Es un portal web 
               | que se utiliza para crear y colaborar en tiempo real en la construcción de prototipos, diagramas, wireframes. Aunque es necesario aprender y comprender su funcionamiento completo, se le puede sacar el máximo provecho a los más de dos millones de usuarios que trabajan en él, de forma colaborativa, debido a que todo es un compendio de herramientas que dan la posibilidad de una gestión de proyectos muy completa, incluido los prototipos que se requieran. Es decir, en esta herramienta, la colaboración en línea está garantizada, puesto que su construcción tiene como valor agregado, el trabajo en equipo efectivo.
-            p Como ya se ha mencionado este portal permite la creaci&oacute;n de prototipos de una manera muy sencilla, b&aacute;sicamente lo que se hace es darle funcionalidad al dise&ntilde;o previamente construido, lo que permite representar de forma cercana a la realidad, la percepci&oacute;n de los usuarios, al trabajar con el futuro 
+            p Como ya se ha mencionado, este portal permite la creaci&oacute;n de prototipos de una manera muy sencilla, b&aacute;sicamente lo que se hace es darle funcionalidad al dise&ntilde;o previamente construido, lo que permite representar de forma cercana a la realidad, la percepci&oacute;n de los usuarios, al trabajar con el futuro 
               em software
               | . Debe tenerse en cuenta que al utilizar la herramienta se facilita una retroalimentaci&oacute;n eficaz y muy acertada, puesto que es posible detectar requerimientos poco claros, mal expresados y/o malos entendidos, permitiendo la opini&oacute;n acerca del producto final por parte los clientes, en etapas muy tempranas, lo que da el tiempo necesario para tomar los correctivos que sean pertinentes.
 
@@ -370,7 +369,7 @@
           .col-md-6.mb-4.mb-md-0
             p: strong Framer
             p Inicialmente, Framer estaba orientada únicamente a sistemas operativos macOS, puesto que su especialidad estaba más inclinada hacia los prototipos animados o interactivos. Pero en la actualidad, la versión web, permite esta misma funcionalidad, con la gran ventaja de permitir el trabajo colaborativo, lo cual la hace mucho más accesible para todos. Para que esto se pueda especificar para los usuarios, cuenta con una serie de componentes utilizables, ajustables, al punto de poder personalizar todas las animaciones, dando la posibilidad a todo el equipo de opinar al respecto.
-            p Todo lo anterior conlleva a mayores y mejores retroalimentaciones. A prop&oacute;sito del trabajo colaborativo, la propiedad de la edici&oacute;n multiusuario rompe paradigmas, permitiendo que m&uacute;ltiples usuarios trabajen en el mismo prototipo, simult&aacute;neamente.
+            p Todo lo anterior conlleva mayores y mejores retroalimentaciones. A prop&oacute;sito del trabajo colaborativo, la propiedad de la edici&oacute;n multiusuario rompe paradigmas, permitiendo que m&uacute;ltiples usuarios trabajen en el mismo prototipo, simult&aacute;neamente.
 
         .row.justify-content-center.align-items-center
           .col-md-3
@@ -384,10 +383,10 @@
               img(src='@/assets/curso/temas/t2/f18.png', alt='Figma')
           .col-md-6.mb-4.mb-md-0
             p: strong Justinmind
-            p Esta herramienta es una de la más completas, puesto que aplica para desarrollo web, m&oacute;viles y 
+            p Esta herramienta es una de las más completas, puesto que aplica para desarrollo web, m&oacute;viles y 
               em software
               | . Adem&aacute;s, trabaja en Windows, iOs y Android. Se debe pagar por su utilización. Sin embargo, hay una versión gratuita con opciones interesantes, aunque el valor de su versión más avanzada (Pro) no es muy costosa. 
-            p Su utilizaci&oacute;n es muy sencilla e intuitiva puesto que est&aacute; dividida en dos grandes partes, la primera, en la que permite dise&ntilde;ar el aplicativo, es una serie de paneles din&aacute;micos que facilitan mucho la simulaci&oacute;n de botones, pesta&ntilde;as, transiciones, y en general, distintos elementos din&aacute;micos en un &aacute;rea determinada y, la segunda, permite trabajar los eventos, con el consecuente manejo de botones.
+            p Su utilizaci&oacute;n es muy sencilla e intuitiva, puesto que est&aacute; dividida en dos grandes partes, la primera, en la que permite dise&ntilde;ar el aplicativo, es una serie de paneles din&aacute;micos que facilitan mucho la simulaci&oacute;n de botones, pesta&ntilde;as, transiciones, y en general, distintos elementos din&aacute;micos en un &aacute;rea determinada y, la segunda, permite trabajar los eventos, con el consecuente manejo de botones.
 
         .row.justify-content-center.align-items-center
           .col-md-3

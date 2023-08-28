@@ -33,7 +33,7 @@
           |, 2013)
 
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 A continuación, se estudian las técnicas para validar requisitos, que pueden ser muchos, entre otras cosas porque tienen una subjetividad muy alta e incluso, pueden variar dependiendo de un autor a otro.
+          p.mb-0 A continuación, se estudian las técnicas para validar requisitos, que pueden ser muchos, entre otras cosas, porque tienen una subjetividad muy alta e incluso, pueden variar dependiendo de un autor a otro.
 
     separador
 
@@ -55,7 +55,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0
             p Es preciso comenzar con la llamada delimitación del proyecto, donde el alcance de este, es protagonista de primer orden, puesto que se genera con el registro de todos y cada uno de los requerimientos levantados. En este punto, es donde entra la 
-              b matriz de trazabilidad 
+              b matriz de trazabilidad,  
               |que consiste en realizar una comparación entre los objetivos del sistema, contra los requisitos levantados, teniendo especial cuidado en contemplar todos y cada uno de los objetivos, para poder detectar inconsistencias. Ahora bien, hay que recordar que la matriz de trazabilidad es un cuadro o tabla, donde se relacionan todos y cada uno de los requerimientos levantados, con su respectivo entregable, previamente determinado, lo cual permite identificar y verificar cada resultado obtenido, contra cada requisito solicitado, versus entregables planeados. (Duque, 2022)
           .col-md-5
             figure
@@ -140,7 +140,7 @@
               img(src='@/assets/curso/temas/t1/f8.jpg', alt='')
           .crd_hover_txt--body
             h4.text-center Norma
-            p.text-center.mb-0 Es menester mencionar que la norma ISO 9001, habitualmente es la que se tiene en cuenta para estos procesos. Sin embargo, no es sencillo, ya que la complejidad en la aplicación de esta norma es manifiesta, por ende, poco accesible para muchas personas del común. Es así que emerge la figura de las listas de verificación. Aunque no existe una fórmula mágica, ni una receta universal para construirlas puesto que cada proyecto es una historia diferente, pero la construcción de dicha lista es mucho menos traumática. 
+            p.text-center.mb-0 Es menester mencionar que la norma ISO 9001, habitualmente, es la que se tiene en cuenta para estos procesos. Sin embargo, no es sencillo, ya que la complejidad en la aplicación de esta norma es manifiesta, por ende, poco accesible para muchas personas del común. Es así que emerge la figura de las listas de verificación. Aunque no existe una fórmula mágica, ni una receta universal para construirlas, puesto que cada proyecto es una historia diferente, pero la construcción de dicha lista es mucho menos traumática. 
 
     separador
 
@@ -225,7 +225,7 @@
                 | Las necesidades planeadas por el cliente quedan totalmente satisfechas con el producto a construir.
               li
                 i.fas.fa-check
-                | Generalmente estas revisiones se realizan en algunos puntos clave, incluso, entregables de mayor trascendencia. Sin perjuicio que se realice en cualquier momento.
+                | Generalmente, estas revisiones se realizan en algunos puntos clave, incluso, entregables de mayor trascendencia. Sin perjuicio que se realice en cualquier momento.
 
     separador
 
