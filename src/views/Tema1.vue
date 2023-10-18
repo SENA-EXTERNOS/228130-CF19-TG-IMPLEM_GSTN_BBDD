@@ -123,7 +123,7 @@
     p A continuación, se encuentran la definición y la norma que se deben tener en cuenta en el desarrollo de las auditorías.
 
     .row.justify-content-center.mb-5
-      .col-lg-5
+      .col-lg-6.col-md-11.my-3
         .crd_hover_txt.color-primario
           .crd_hover_txt--img
             figure
@@ -133,7 +133,7 @@
             p.text-center.mb-0 Al escuchar el término auditoría, involuntariamente se hace referencia a la revisión de documentos; también suele relacionarse con una persona muy sabia que juzga cada acción como correcta o incorrecta, que además tiene la facultad de condenar o absolver. En este ámbito, igualmente consiste en una revisión, pero de resultados, donde, previa construcción del respectivo 
               em checklist
               | , se verifica el cumplimiento de cada requerimiento, aclarando que generalmente solo se toma una muestra de dichos requisitos. En otras palabras, se realiza una muestra de requisitos contra objetivos o pedidos de los clientes, para el proyecto en construcción. (Medina, Pineda, Téllez, 2019)
-      .col-lg-5
+      .col-lg-6.col-md-11.my-3
         .crd_hover_txt.color-primario
           .crd_hover_txt--img
             figure
